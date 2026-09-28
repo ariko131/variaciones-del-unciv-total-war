@@ -122,7 +122,6 @@
 		"Removes removable features when built",
 		"Tile provides yield without assigned population",
 		"Great Improvement",
-			"Unbuildable <for [all] units>",
 		],
 		"shortcutKey": "O"
 	},
