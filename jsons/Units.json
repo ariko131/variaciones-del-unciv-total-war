@@ -96,9 +96,9 @@
          "Comment [-A master of charm, influence, and carefully calculated affection.\nKings emptied treasuries for them. Generals started wars over them. Senators ruined careers trying to impress them.\nWhether serving as diplomat, confidant, or professional destroyer of good judgment, their talents can reshape the fate of an empire.\n• Great Person]",
          "Empire enters a [10]-turn Golden Age <by consuming this unit>",
          "Free Great Person <by consuming this unit>",
-         "Can instantly construct a [Village] improvement <[1] times> <after which this unit is consumed>",
-         "Can instantly construct a [Trading post] improvement <[1] times> <after which this unit is consumed>",
-         "Can instantly construct a [Fort] improvement <[1] times> <after which this unit is consumed>",
+         "Can instantly construct a [Village] improvement <[4] times> <after which this unit is consumed>",
+         "Can instantly construct a [Trading post] improvement <[4] times> <after which this unit is consumed>",
+         "Can instantly construct a [Fort] improvement <[4] times> <after which this unit is consumed>",
          "Great Person - [Libertinage]",
          "Unbuildable",
          "Uncapturable"
@@ -111,8 +111,7 @@
     "uniques": [
          "Comment [-Poets, sculptors, playwrights, and other specialists in turning patron funding into immortality.\nTheir works inspire the masses, glorify rulers, and occasionally conceal political criticism well enough to avoid execution.\nWhile armies conquer cities, artists conquer memory. One tends to last longer.\n• Great Person]",
          "Empire enters a [10]-turn Golden Age <by consuming this unit>",
-         "Free Great Person <by consuming this unit>",
-         "Gain [300]-[2000] [Culture] <by consuming this unit> <before the [Hellenistic Age]>",
+         "Gain [900]-[3000] [Culture] <by consuming this unit> <before the [Hellenistic Age]>",
          "Gain [400]-[6000] [Gold] <by consuming this unit> <before the [Hellenistic Age]>",
          "Gain [600]-[4000] [Culture] <by consuming this unit> <starting from the [Hellenistic Age]>",
          "Gain [500]-[10000] [Gold] <by consuming this unit> <starting from the [Hellenistic Age]>",
@@ -128,10 +127,9 @@
     "uniques": [
          "Comment [-Masters of rhetoric, persuasion, and speaking confidently on subjects they barely understand.\nA skilled orator can calm a riot, inspire a nation, or convince thousands to support a terrible idea.\nTheir greatest weapon is not the sword, but the unsettling realization that people are actually listening.\n• Great Person]",
          "Empire enters a [10]-turn Golden Age <by consuming this unit>",
-         "Free Great Person <by consuming this unit>",
          "Gain [400]-[3000] [Culture] <by consuming this unit> <before the [Hellenistic Age]>",
          "Gain [800]-[5000] [Culture] <by consuming this unit> <starting from the [Hellenistic Age]>",
-         "Can instantly construct a [Village] improvement <[1] times> <after which this unit is consumed>",
+         "Can instantly construct a [Village] improvement <[6] times> <after which this unit is consumed>",
          "Great Person - [Propagandhi]",
          "Unbuildable",
          "Uncapturable"
@@ -144,13 +142,12 @@
     "uniques": [
          "Comment [-Philosophers, mathematicians, physicians, and other individuals cursed with curiosity.\nThey spend decades searching for truth, only for rulers to ask whether their discoveries can improve taxes or win wars.\nFortunately, knowledge survives longer than kingdoms. Unfortunately, so do some diseases.\n• Great Person]",
          "Empire enters a [12]-turn Golden Age <by consuming this unit>",
-         "Free Great Person <by consuming this unit>",
          "[1] free random researchable Tech(s) from the [Archaic Age] <by consuming this unit> <during the [Archaic Age]>",
          "Gain [500]-[1500] [Science] <by consuming this unit> <before the [Classical Age]>",
          "Gain [700]-[2500] [Science] <by consuming this unit> <during the [Classical Age]>",
          "Gain [1000]-[3500] [Science] <by consuming this unit> <starting from the [Hellenistic Age]>",
          "Remove [DANGEROUS PLAGUE] [in all cities] <[2] times> <after which this unit is consumed>",
-         "Can instantly construct a [Village] improvement <[1] times> <after which this unit is consumed>",
+         "Can instantly construct a [Village] improvement <[8] times> <after which this unit is consumed>",
          "Great Person - [Science]",
          "Unbuildable",
          "Uncapturable"
@@ -163,11 +160,10 @@
     "uniques": [
          "Comment [-Merchants whose wealth exceeds the treasury of lesser kingdoms.\nThey travel vast distances in pursuit of profit, bringing exotic goods, valuable contacts, and creative interpretations of local tax laws.\nWhere armies see enemies and scholars see mysteries, merchants see potential customers.\n• Great Person]",
          "Empire enters a [12]-turn Golden Age <by consuming this unit>",
-         "Free Great Person <by consuming this unit>",
          "Can undertake a trade mission with City-State, giving a large sum of gold and [150] Influence",
-         "Gain [800]-[8000] [Gold] <by consuming this unit> <before the [Hellenistic Age]>",
-         "Gain [1200]-[12000] [Gold] <by consuming this unit> <starting from the [Hellenistic Age]>",
-         "Can instantly construct a [Trading post] improvement <[1] times> <after which this unit is consumed>",
+         "Gain [8000]-[9000] [Gold] <by consuming this unit> <before the [Hellenistic Age]>",
+         "Gain [5000]-[15000] [Gold] <by consuming this unit> <starting from the [Hellenistic Age]>",
+         "Can instantly construct a [Trading post] improvement <[4] times> <after which this unit is consumed>",
          "Great Person - [Gold]",
          "Unbuildable",
          "Uncapturable"
@@ -182,9 +178,8 @@
          "Empire enters a [12]-turn Golden Age <by consuming this unit> <if it hasn't used other actions yet>",
          "Can speed up construction of a building <if it hasn't used other actions yet>",
 	"Can build [Land] improvements on tiles <hidden from users>",
-         "Can instantly construct a [Fort] improvement <[1] times> <after which this unit is consumed>",
-         "Free Great Person <by consuming this unit>",
-         "[+10]% Strength bonus for [Siege] units within [1] tiles",
+         "Can instantly construct a [Fort] improvement <[4] times> <after which this unit is consumed>",
+         "[+10]% Strength bonus for [Siege] units within [2] tiles",
          "Great Person - [Production]",
          "Unbuildable",
          "Uncapturable"
@@ -197,7 +192,6 @@
     "uniques": [
          "Comment [-Prophets claim to speak for the gods. Their followers tend to agree.\nThey spread faith, settle theological disputes, and occasionally start entirely new ones.\nA wise prophet can unite a people under a common creed. An unwise one can still achieve the same result through fear and confusion.\n• Great Person\n• Religious Unit]",
          "Can only be built <when religion is enabled> <hidden from users>",
-         "Free Great Person <by consuming this unit>",
          "May found a religion <by consuming this unit> <if it hasn't used other actions yet>",
          "May enhance a religion <by consuming this unit> <if it hasn't used other actions yet>",
          "Removes other religions when spreading religion",
@@ -924,7 +918,7 @@
          "Can only be built <in cities with a [Army Barracks]>",
          "Consumes [4] [Manpower]",
          "Consumes [1] [Iron]",
-         "Can build [Remove Forest] improvements on tiles",
+          
          "Can only be built <with [Enable Heavy Spearman]> <hidden from users>",
 	 "[This Unit] loses the [Infantry Shield II] promotion <hidden from users>",
 	 "[This Unit] loses the [Infantry Shield I] promotion <hidden from users>",
@@ -960,7 +954,7 @@
          "Can only be built <in cities with a [Army Barracks]>",
          "Consumes [4] [Manpower]",
          "Consumes [1] [Iron]",
-         "Can build [Remove Forest] improvements on tiles",
+          
          "Unbuildable <with [Enable Desert Legion]> <hidden from users>",
          "Unbuildable <with [Enable Gallic Legion]> <hidden from users>",
          "Unbuildable <with [Enable Hellenic Legion]> <hidden from users>",
@@ -1409,7 +1403,7 @@
     "unitType": "Melee Water",
     "hurryCostModifier": 40,
     "movement": 3,
-    "strength": 23,
+    "strength": 25,
     "cost": 190,
     "requiredTech": "Navigation",
     "uniques": [
@@ -1507,7 +1501,7 @@
     "unitType": "Spear",
     "hurryCostModifier": 40,
     "movement": 2,
-    "strength": 15,
+    "strength": 18,
     "cost": 100,
     "requiredTech": "Equestrian Class",
     "uniques": [
@@ -1543,7 +1537,7 @@
          "Comment [-Elite cavalry drawn from the ruler's personal companions and household warriors.\nHistorically, formations such as the Agema served as both battlefield shock troops and visible reminders that the king preferred to keep his most dangerous supporters close.\nPrestigious, heavily equipped, and entrusted with the sort of missions that become either legends or cautionary tales.\n• Elite Medium Cavalry]",
          "Can only be built <in cities with a [Palace]>",
          "Limited to [1] per Civilization",
-         "Consumes [4] [Manpower]",
+         "Consumes [5] [Manpower]",
          "Consumes [1] [Horses]",
          "Consumes [1] [Veteran]",
          "Can only be built <with [Enable Royal Agema]> <hidden from users>",
@@ -1660,14 +1654,13 @@
     "unitType": "Mounted",
     "hurryCostModifier": 40,
     "movement": 3,
-    "strength": 28,
+    "strength": 30,
     "cost": 350,
     "requiredTech": "Metallurgy",
     "uniques": [
          "Comment [-Elite super-heavy cavalry encased in layers of armor so extensive that both rider and horse begin to resemble a moving metallurgy project.\nDeveloped by late antique empires seeking the ultimate shock cavalry, they combined devastating charge power with the reassuring ability to ignore most common weapons.\nMagnificent in battle, terrifying to face, and expensive enough to make treasury officials consider retirement.\n• Elite Super Heavy Cavalry]",
          "Can only be built <in cities with a [Imperial Barracks]>",
-         "Consumes [6] [Manpower]",
-         "Consumes [1] [Veteran]",
+         "Consumes [10] [Manpower]",
          "Consumes [4] [Horses]",
          "Consumes [3] [Iron]",
 	 "[This Unit] loses the [[Cataphract] ability] promotion <hidden from users>",
@@ -1691,8 +1684,7 @@
     "uniques": [
          "Comment [-An armored war elephant, created when someone looked at a normal elephant and concluded it was not expensive enough.\nCovered in iron and carrying enough equipment to start a small military parade, it exists primarily to remind infantry that life is unfair.\nCapable of flattening enemy formations, siege works, and occasionally the financial stability of the state that owns it.\n• Heavy Elephant Cavalry]",
          "Can only be built <in cities with a [Elephant Trainer]>",
-         "Consumes [4] [Manpower]",
-         "Consumes [1] [Veteran]",
+         "Consumes [8] [Manpower]",
          "Consumes [2] [Elephants]",
          "Consumes [3] [Iron]",
          "Can only be built <with [Enable Armored Elephant]> <hidden from users>"
@@ -1773,7 +1765,7 @@
     "unitType": "Spear",
     "hurryCostModifier": 40,
     "movement": 2,
-    "strength": 13,
+    "strength": 14,
     "cost": 80,
     "requiredTech": "Bronze Working",
     "uniques": [
@@ -1820,12 +1812,11 @@
     "hurryCostModifier": 40,
     "cost": 180,
     "movement": 2,
-    "strength": 23,
+    "strength": 24,
     "requiredTech": "Heavy Infantry",
     "uniques": [
          "Comment [-Aquitani heavy infantry drawn from the Solduros lineage, trained for sustained frontline engagements where patience matters more than elegance.\nThey excel at holding positions, absorbing pressure, and making enemy commanders reconsider whether frontal assaults were emotionally necessary.\nLess flashy than elite troops, but significantly more reliable when the situation stops being theoretical.\n• Elite Heavy Infantry]",
-         "Consumes [4] [Manpower]",
-         "Consumes [1] [Veteran]",
+         "Consumes [6] [Manpower]",
          "Consumes [1] [Iron]"
     ],
     "promotions": [
@@ -1843,7 +1834,7 @@
     "uniqueTo": "The Suebi",
     "hurryCostModifier": 40,
     "movement": 2,
-    "strength": 13,
+    "strength": 14,
     "cost": 50,
     "requiredTech": "Bronze Working",
     "uniques": [
@@ -1896,7 +1887,7 @@
     "upgradesTo": "Heavy Swordsman",
     "hurryCostModifier": 40,
     "movement": 2,
-    "strength": 12,
+    "strength": 13,
     "cost": 50,
     "requiredTech": "Bronze Working",
     "uniques": [
@@ -1920,13 +1911,12 @@
     "unitType": "Sword",
     "hurryCostModifier": 40,
     "movement": 2,
-    "strength": 22,
+    "strength": 25,
     "cost": 220,
     "uniques": [
          "Comment [-Elite shock infantry selected from the most capable warriors of the tribe, where “selected” often meant “survived long enough to be noticed.”\nArmed with axes designed for breaking shields, armor, and the general confidence of whoever stood opposite them, they represented the apex of tribal warfare efficiency.\nRoman observers tended to admire them in the same way one admires a disaster from a safe distance.\n• Elite Heavy Shock Infantry]",
          "Can only be built <in cities with a [Army Barracks]>",
-         "Consumes [1] [Veteran]",
-         "Consumes [4] [Manpower]",
+         "Consumes [8] [Manpower]",
          "Consumes [1] [Iron]",
          "Can only be built <after adopting [Germanic Culture]> <hidden from users>"
     ],
@@ -1943,7 +1933,7 @@
     "unitType": "Sword",
     "hurryCostModifier": 40,
     "movement": 2,
-    "strength": 20,
+    "strength": 24,
     "cost": 220,
     "uniques": [
          "Comment [-Elite shock infantry driven by controlled fury rather than conventional discipline.\nThese warriors are known for entering combat in a state where survival instinct is temporarily downgraded in favor of aggressive momentum.\nHistorical accounts describe them as highly effective in breaking enemy lines and deeply problematic for anyone attempting to negotiate with them.\n• Elite Medium Shock Infantry]",
@@ -1952,8 +1942,7 @@
          "[+10]% Strength <when attacking> <when below [20] HP>",
          "[-10]% Strength for enemy [Military] units in adjacent [all] tiles",
          "[+1] XP gained from combat",
-         "Consumes [1] [Veteran]",
-         "Consumes [5] [Manpower]",
+         "Consumes [10] [Manpower]",
          "Can only be built <after adopting [Germanic Culture]> <hidden from users>",
          "[This Unit] loses the [Infantry Shield I] promotion <hidden from users>",
     ],
@@ -1995,7 +1984,7 @@
     "unitType": "Sword",
     "hurryCostModifier": 40,
     "movement": 2,
-    "strength": 16,
+    "strength": 18,
     "cost": 100,
     "requiredTech": "Equestrian Class",
     "uniques": [
@@ -2005,8 +1994,7 @@
          "[+3] Strength <during the [Imperial Age]>",
          "[+20]% production cost <during the [Hellenistic Age]>",
          "[+40]% production cost <during the [Imperial Age]>",
-         "Consumes [4] [Manpower]",
-         "Consumes [1] [Veteran]",
+         "Consumes [8] [Manpower]",
          "Can only be built <after adopting [Germanic Culture]>",
          "Never appears as a Barbarian unit <before the [Imperial Age]> <hidden from users>",
          "[This Unit] is destroyed <after adopting [Latin Culture]> <during the [Imperial Age]>",
@@ -2029,7 +2017,7 @@
     "hurryCostModifier": 40,
     "movement": 3,
     "strength": 8,
-    "rangedStrength": 13,
+    "rangedStrength": 14,
     "cost": 70,
     "requiredTech": "Archery Practice",
     "uniques": [
@@ -2101,7 +2089,7 @@
     "unitType": "Spear",
     "uniqueTo": "The Carthaginians",
     "movement": 2,
-    "strength": 15,
+    "strength": 18,
     "hurryCostModifier": 40,
     "cost": 110,
     "requiredTech": "Citizen Levy",
@@ -2171,7 +2159,7 @@
          "Comment [-Roman manipular infantry, organized with the same enthusiasm Romans applied to bureaucracy: excessive structure, surprising efficiency, and an alarming ability to adapt mid-conflict.\nTrained to construct infrastructure while advancing, they blurred the line between conquest and public works project management.\nTheir true specialty was not just winning territory, but immediately improving it while the enemy was still processing the loss.\n• Heavy Infantry]",
          "Can only be built <in cities with a [Barracks]>",
          "Can build [All Road] improvements on tiles",
-         "Can build [Remove Forest] improvements on tiles",
+          
          "Consumes [3] [Manpower]",
          "Consumes [1] [Iron]",
 	"Can upgrade to [Triarii] <for units with [Veterans]>",
@@ -2182,6 +2170,7 @@
       "Infantry Shield III",
       "Drill I"
       "Pilum",
+	"Road Builders"
     ],
     "attackSound": "march"
   },
@@ -2199,7 +2188,7 @@
 	"Comment [-Roman legionary heavy infantry, trained to treat warfare, engineering, and administrative expansion as one continuous workflow.\nThey were capable of dismantling enemy forces, then immediately turning the same ground into roads, camps, and permanent reminders that Rome had been there.\nExceptionally disciplined, highly organized, and also extremely efficient at the “murder first, paperwork second” stage of state-building.\n• Heavy Infantry]",
          "Can only be built <in cities with a [Barracks]>",
          "Can build [All Road] improvements on tiles",
-         "Can build [Remove Forest] improvements on tiles",
+          
          "Consumes [4] [Manpower]",
          "Consumes [1] [Iron]",
 	"Can upgrade to [Eagle Cohort] <for units with [Veterans]>",
@@ -2210,6 +2199,7 @@
       "Assault I",
       "Drill I",
       "Pilum",
+	"Road Builders"
     ],
     "attackSound": "march"
   },
@@ -2226,8 +2216,7 @@
     "uniques": [
          "Comment [-Roman frontier heavy spear infantry assigned to border defense duties, where stability depends on patience, spears, and geography doing most of the work.\nThey maintain roads, secure farmland, and ensure that any invasion force is forced to have a long, inconvenient conversation with logistics before doing anything meaningful.\n• Heavy Spear Infantry]",
          "Can only be built <in cities with a [Army Barracks]>",
-         "Can build [All Road] improvements on tiles",
-         "Can build [Remove Forest] improvements on tiles",
+          
          "[+20]% Strength <when fighting in [Friendly Land] tiles>",
          "[+10]% Strength <when fighting in [Farm] tiles>",
          "Consumes [3] [Manpower]",
@@ -2237,6 +2226,7 @@
       "[Spearman] ability",
       "Infantry Shield III",
       "Drill I"
+	"Road Builders"
     ],
     "attackSound": "march"
   },
@@ -2269,7 +2259,8 @@
       "[Spearman] ability",
       "Infantry Shield III",
       "Inspiring",
-	"Veterans"
+	"Veterans",
+	"Road Builders"
     ],
     "attackSound": "march"
   },
@@ -2295,6 +2286,7 @@
       	"Infantry Shield II",
 	"Improved Armor",
 	"Veterans",
+	"Road Builders"
     ],
     "attackSound": "nonmetalhit",
   },
@@ -2322,6 +2314,7 @@
       "Improved Armor",
       "[Standard Bearer]",
       "Pilum",
+	"Road Builders"
     ],
     "attackSound": "march"
   },
@@ -2443,7 +2436,7 @@
     "replaces": "Swordsman",
     "uniqueTo": "The Getae",
     "movement": 2,
-    "strength": 14,
+    "strength": 15,
     "cost": 100,
     "requiredTech": "Citizen Levy",
     "uniques": [
@@ -2467,7 +2460,7 @@
     "unitType": "Sword",
     "upgradesTo": "Swordsman",
     "movement": 3,
-    "strength": 11,
+    "strength": 14,
     "cost": 70,
     "uniques": [
          "Comment [-Celtic light shock infantry known for fighting with minimal armor, maximum confidence, and a strong belief that mobility beats protection.\nThey excelled at aggressive charges and psychological intimidation, but had a noticeable disagreement with archery departments.\n• Very Light Shock Infantry]",
@@ -2544,7 +2537,7 @@
     "upgradesTo": "Heavy Swordsman",
     "uniqueTo": "The Insubres",
     "movement": 2,
-    "strength": 14,
+    "strength": 15,
     "cost": 80,
     "requiredTech": "Citizen Levy",
     "uniques": [
@@ -2659,7 +2652,7 @@
          "Can only be built <in cities with a [Barracks]>",
          "Can move immediately once bought",
          "Consumes [3] [Manpower]",
-         "Can build [Remove Forest] improvements on tiles",
+          
 	"[This Unit] gets a name from the [Hyrcanian Axeman] group <hidden from users>",
     ],
     "promotions": [
@@ -2701,7 +2694,7 @@
     "hurryCostModifier": 40,
     "unitType": "Spear",
     "movement": 2,
-    "strength": 15,
+    "strength": 20,
     "cost": 100,
     "uniques": [
          "Comment [-Elite imperial Immortal infantry, an evolving Persian core unit adapted for prolonged warfare across shifting eras.\nIn earlier phases they function as disciplined spear infantry with strong defensive cohesion; in later imperial restructuring they transition into heavier formations optimized for sustained frontline endurance in desert campaigns.\nTheir reputation for “immortality” comes less from invincibility and more from the fact that they are immediately replaced faster than opponents can confirm kills.\n• Elite Spear Infantry]",
@@ -2709,15 +2702,14 @@
          "[+20]% Strength <during the [Imperial Age]>",
          "[+40]% production cost <during the [Imperial Age]>",
          "[Immortals] units gain the [Improved Armor] promotion <during the [Imperial Age]>",
-         "Consumes [3] [Manpower]",
-         "Consumes [1] [Veteran]",
+         "Consumes [8] [Manpower]",
          "Consumes [1] [Bronze]",
          "Can only be built <after adopting [Eastern Culture]> <hidden from users>",
 	"[This Unit] gets a name from the [Immortals] group <hidden from users>",
     ],
     "promotions": [
       "[Spearman] ability",
-      "Infantry Shield II",
+      "Infantry Shield III",
       "Desert Warrior I",
 	"Medic I",
 	"Veterans",
@@ -2761,7 +2753,7 @@
     "uniqueTo": "The Lusitani",
     "upgradesTo": "Heavy Swordsman",
     "movement": 3,
-    "strength": 15,
+    "strength": 16,
     "cost": 95,
     "requiredTech": "Infantry Training",
     "uniques": [
@@ -2817,13 +2809,13 @@
     "uniqueTo": "The Dardanians",
     "upgradesTo": "Heavy Spearman",
     "movement": 2,
-    "strength": 15,
+    "strength": 21,
     "cost": 90,
     "requiredTech": "Bronze Working",
     "uniques": [
          "Comment [-Dardanian noble hoplites drawn from local aristocratic households, trained in classical spear warfare with an emphasis on discipline, status, and looking significantly more organized than the average levy.\nThey functioned as reliable heavy infantry, combining social prestige with battlefield duty in a way that ensured both accountability and excessive confidence in formation fighting.\n• Medium Spear Infantry]",
          "Can only be built <in cities with a [Barracks]>",
-         "Consumes [2] [Manpower]",
+         "Consumes [6] [Manpower]",
          "Consumes [1] [Bronze]",
 	"[This Unit] gets a name from the [Noble Hoplite] group <hidden from users>",
     ],
@@ -3092,7 +3084,7 @@
     "uniqueTo": "The Spartans",
     "upgradesTo": "Heavy Spearman",
     "movement": 2,
-    "strength": 16,
+    "strength": 18,
     "cost": 90,
     "requiredTech": "Bronze Working",
     "uniques": [
@@ -3171,7 +3163,7 @@
     "uniqueTo": "The Spartans",
     "replaces": "Foot Guard",
     "movement": 2,
-    "strength": 16,
+    "strength": 20,
     "cost": 140,
     "requiredTech": "Equestrian Class",
     "uniques": [
@@ -3181,9 +3173,8 @@
          "[+3] Strength <during the [Hellenistic Age]>",
          "[+20]% production cost <during the [Hellenistic Age]>",
          "[+40]% production cost <during the [Imperial Age]>",
-         "Consumes [4] [Manpower]",
+         "Consumes [6] [Manpower]",
          "Consumes [1] [Bronze]",
-         "Consumes [1] [Veteran]",
 	"[This Unit] gets a name from the [Royal Spartan] group <hidden from users>",
     ],
     "promotions": [
@@ -3728,7 +3719,7 @@
       	"Can only be built <in cities with a [Barracks]>",
       	"Can only be built <with [Enable Hellenic Legion]> <hidden from users>",
 	"Can build [All Road] improvements on tiles",
-	"Can build [Remove Forest] improvements on tiles",
+	 
       	"Consumes [4] [Manpower]",
       	"Consumes [1] [Iron]",
         "[This Unit] gets a name from the [Legions] group <hidden from users>",
@@ -3753,7 +3744,7 @@
       	"Can only be built <in cities with a [Barracks]>",
       	"Can only be built <with [Enable Hellenic Limitanei]> <hidden from users>",
 	"Can build [All Road] improvements on tiles",
-	"Can build [Remove Forest] improvements on tiles",
+	 
        	"[+20]% Strength <when fighting in [Friendly Land] tiles>",
        	"[+10]% Strength <when fighting in [Hill] tiles>",
       	"Consumes [4] [Manpower]",
@@ -3763,7 +3754,8 @@
     "promotions": [
       "[Spearman] ability",
       "Infantry Shield III",
-      "Formation I"
+      "Formation I",
+	"Road Builders"
     ],
     "attackSound": "march"
   },
@@ -3780,7 +3772,7 @@
       	"Can only be built <in cities with a [Barracks]>",
       	"Can only be built <with [Enable Gallic Legion]> <hidden from users>",
 	"Can build [All Road] improvements on tiles",
-	"Can build [Remove Forest] improvements on tiles",
+	 
       	"Consumes [4] [Manpower]",
       	"Consumes [1] [Iron]",
             "[This Unit] gets a name from the [Legions] group <hidden from users>",
@@ -3790,6 +3782,7 @@
       "Assault I",
       "Shock I",
 	"Pilum",
+	"Road Builders"
     ],
     "attackSound": "march"
   },
@@ -3804,7 +3797,7 @@
 	"Comment [-Gallic limitanei frontier spearmen assigned to defensive garrisons and border stabilization, trained to turn forests, hills, and “temporary patrol zones” into permanent military infrastructure through sheer persistence and aggressive maintenance policy.\nThey specialize in holding terrain, resisting incursions, and quietly converting defensive lines into long-term controlled territory without ever formally admitting expansion is happening.\nTheir strength is less battlefield dominance and more refusal to leave.\n• Heavy Spear Infantry]"
       	"Can only be built <in cities with a [Barracks]>",
 	"Can build [All Road] improvements on tiles",
-	"Can build [Remove Forest] improvements on tiles",
+	 
        	"[+10]% Strength <when fighting in [Friendly Land] tiles>",
        	"[+10]% Strength <when fighting in [Forest] tiles>",
       	"Consumes [4] [Manpower]",
@@ -3816,6 +3809,7 @@
       "[Spearman] ability",
       "Infantry Shield III",
       "Raider I",
+	"Road Builders"
     ],
     "attackSound": "march"
   },
@@ -3831,13 +3825,14 @@
 	"Comment [-Gallic spearmen trained in early tribal levy formations, specialized in anti-cavalry defense and emergency forest warfare where visibility is optional and discipline is mostly theoretical.\nThey are most effective at holding chokepoints, slowing enemy advances, and turning horsemen into expensive tactical misunderstandings.\nOutside of defensive terrain, their performance becomes significantly more philosophical.\n• Light Spear Infantry]"
      	"Can only be built <in cities with a [Muster Field]> <when above [0] [Gallic 3rd Century Crisis]> <hidden from users>",
 	"Comment ['Spearman — ideal for stopping horses, not much else.']",
-	"Can build [Remove Forest] improvements on tiles",
+	 
       	"Consumes [2] [Manpower]",
     ],
     "promotions": [
       "[Spearman] ability",
       "Infantry Shield II",
-      "Drill I"
+      "Drill I",
+	"Road Builders",
     ],
     "attackSound": "metalhit"
   },
@@ -3854,7 +3849,7 @@
       "Can only be built <in cities with a [Barracks]>",
       	"Can only be built <with [Enable Desert Legion]> <hidden from users>",
 	"Can build [All Road] improvements on tiles",
-	"Can build [Remove Forest] improvements on tiles",
+	 
       "Consumes [4] [Manpower]",
       "Consumes [1] [Iron]",
             "[This Unit] gets a name from the [Legions] group <hidden from users>",
@@ -3865,6 +3860,7 @@
       "Assault I",
       "Desert Warrior I",
 	"Pilum",
+	"Road Builders"
     ],
     "attackSound": "march"
   },
@@ -3881,7 +3877,7 @@
       	"Can only be built <in cities with a [Barracks]>",
       	"Can only be built <with [Enable Illyrian Legion]> <hidden from users>",
 	"Can build [All Road] improvements on tiles",
-	"Can build [Remove Forest] improvements on tiles",
+	 
 	"[+2] XP gained from combat",
       	"Consumes [4] [Manpower]",
       	"Consumes [1] [Iron]",
@@ -3891,6 +3887,7 @@
       "Infantry Shield III",
       "Assault I",
 	"Pilum",
+	"Road Builders"
     ],
     "attackSound": "march"
   },
