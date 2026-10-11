@@ -135,9 +135,9 @@
 		"terrainsCanBeBuiltOn": ["Land","Forest","Jungle"],
 		"uniques": [
 			"Gives a defensive bonus of [10]%",
-  			"[-1 Happiness, -1 Food, -1 Production, +1 Culture] for each adjacent [Village]",
-  			"[+1 Happiness, -1 Food] for each adjacent [Fort]",
-  			"[+1 Happiness, -1 Food, +1 Gold] for each adjacent [Trading post]",
+  			"[+1 Happiness, +1 Food, +1 Production, +1 Culture] for each adjacent [Village]",
+  			"[+1 Happiness, +1 Food] for each adjacent [Fort]",
+  			"[+1 Happiness, +1 Food, +1 Gold] for each adjacent [Trading post]",
 			"[+1 Food] <when above [10] [Sanitation]>",
 			"[+1 Food] <when above [20] [Sanitation]>",
 			"[+1 Food] <when above [30] [Sanitation]>",
@@ -157,7 +157,7 @@
 		"turnsToBuild": 15,
 		"uniques": [
 			"Gives a defensive bonus of [10]%",
-  			"[-1 Food, +2 Gold] for each adjacent [Village]",
+  			"[+1 Food, +2 Gold] for each adjacent [Village]",
   			"[+1 Happiness, +1 Gold] for each adjacent [Fort]",
   			"[+1 Gold] for each adjacent [improved]",
 			"[+1 Gold] <after discovering [Exploration]>",
@@ -176,7 +176,7 @@
 	{
 		"name": "Road",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"turnsToBuild": 3,
+		"turnsToBuild": 1,
 		"techRequired": "The Wheel",
 		"uniques": ["Can be built outside your borders", "Costs [1] [Gold] per turn"],
 		"shortcutKey": "R",
@@ -191,7 +191,7 @@
 	// the improvement that removes the terrainfeature after it.
 	{
 		"name": "Remove Forest",
-		"turnsToBuild": 5,
+		"turnsToBuild": 3,
 		"techRequired": "Mining",
 		"uniques": ["Can be built outside your borders"],
 		"shortcutKey": "X",
@@ -205,7 +205,7 @@
 	},
 	{
 		"name": "Remove Jungle",
-		"turnsToBuild": 5,
+		"turnsToBuild": 3,
 		"techRequired": "Bronze Working",
 		"uniques": ["Can be built outside your borders"],
 		"shortcutKey": "X"
