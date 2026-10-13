@@ -111,6 +111,7 @@
     "uniques": [
          "Comment [-Poets, sculptors, playwrights, and other specialists in turning patron funding into immortality.\nTheir works inspire the masses, glorify rulers, and occasionally conceal political criticism well enough to avoid execution.\nWhile armies conquer cities, artists conquer memory. One tends to last longer.\n• Great Person]",
          "Empire enters a [10]-turn Golden Age <by consuming this unit>",
+         "Free Great Person <by consuming this unit>",
          "Gain [900]-[3000] [Culture] <by consuming this unit> <before the [Hellenistic Age]>",
          "Gain [400]-[6000] [Gold] <by consuming this unit> <before the [Hellenistic Age]>",
          "Gain [600]-[4000] [Culture] <by consuming this unit> <starting from the [Hellenistic Age]>",
@@ -127,6 +128,7 @@
     "uniques": [
          "Comment [-Masters of rhetoric, persuasion, and speaking confidently on subjects they barely understand.\nA skilled orator can calm a riot, inspire a nation, or convince thousands to support a terrible idea.\nTheir greatest weapon is not the sword, but the unsettling realization that people are actually listening.\n• Great Person]",
          "Empire enters a [10]-turn Golden Age <by consuming this unit>",
+         "Free Great Person <by consuming this unit>",
          "Gain [400]-[3000] [Culture] <by consuming this unit> <before the [Hellenistic Age]>",
          "Gain [800]-[5000] [Culture] <by consuming this unit> <starting from the [Hellenistic Age]>",
          "Can instantly construct a [Village] improvement <[6] times> <after which this unit is consumed>",
@@ -142,6 +144,7 @@
     "uniques": [
          "Comment [-Philosophers, mathematicians, physicians, and other individuals cursed with curiosity.\nThey spend decades searching for truth, only for rulers to ask whether their discoveries can improve taxes or win wars.\nFortunately, knowledge survives longer than kingdoms. Unfortunately, so do some diseases.\n• Great Person]",
          "Empire enters a [12]-turn Golden Age <by consuming this unit>",
+         "Free Great Person <by consuming this unit>",
          "[1] free random researchable Tech(s) from the [Archaic Age] <by consuming this unit> <during the [Archaic Age]>",
          "Gain [500]-[1500] [Science] <by consuming this unit> <before the [Classical Age]>",
          "Gain [700]-[2500] [Science] <by consuming this unit> <during the [Classical Age]>",
@@ -160,6 +163,7 @@
     "uniques": [
          "Comment [-Merchants whose wealth exceeds the treasury of lesser kingdoms.\nThey travel vast distances in pursuit of profit, bringing exotic goods, valuable contacts, and creative interpretations of local tax laws.\nWhere armies see enemies and scholars see mysteries, merchants see potential customers.\n• Great Person]",
          "Empire enters a [12]-turn Golden Age <by consuming this unit>",
+         "Free Great Person <by consuming this unit>",
          "Can undertake a trade mission with City-State, giving a large sum of gold and [150] Influence",
          "Gain [8000]-[9000] [Gold] <by consuming this unit> <before the [Hellenistic Age]>",
          "Gain [5000]-[15000] [Gold] <by consuming this unit> <starting from the [Hellenistic Age]>",
@@ -192,6 +196,7 @@
     "uniques": [
          "Comment [-Prophets claim to speak for the gods. Their followers tend to agree.\nThey spread faith, settle theological disputes, and occasionally start entirely new ones.\nA wise prophet can unite a people under a common creed. An unwise one can still achieve the same result through fear and confusion.\n• Great Person\n• Religious Unit]",
          "Can only be built <when religion is enabled> <hidden from users>",
+         "Free Great Person <by consuming this unit>",
          "May found a religion <by consuming this unit> <if it hasn't used other actions yet>",
          "May enhance a religion <by consuming this unit> <if it hasn't used other actions yet>",
          "Removes other religions when spreading religion",
