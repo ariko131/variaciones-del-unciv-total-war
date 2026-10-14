@@ -124,7 +124,7 @@
 		"Tile provides yield without assigned population",
 		"Great Improvement",
 			"Unbuildable <for [Worker] units>",
-			"Unbuildable <for [Military] units>",
+			"Unbuildable <for [Military] units>"
 		],
 		"shortcutKey": "O"
 	},
@@ -147,7 +147,7 @@
 			"Removes removable features when built",
 			"Pillaging this improvement yields approximately [+100 Gold]",
 			"Unbuildable <for [Worker] units>",
-			"Unbuildable <for [Military] units>",
+			"Unbuildable <for [Military] units>"
 		]
 	},
 	{
@@ -169,7 +169,7 @@
 			"Tile provides yield without assigned population",
 			"Removes removable features when built",
 			"Unbuildable <for [Worker] units>",
-			"Unbuildable <for [Military] units>",
+			"Unbuildable <for [Military] units>"
 ]
 	},
 
