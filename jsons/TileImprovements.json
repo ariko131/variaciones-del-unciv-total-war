@@ -8,7 +8,6 @@
 		"turnsToBuild": 1,
 		"techRequired": "Agriculture",
 		"uniques": [
-		"Provides [1] [Manpower] <in [Wheat] tiles>",
 		"Provides [1] [Manpower] <in [Plains] tiles>",
 		"Can also be built on tiles adjacent to fresh water",
 		"Cannot be built on [Hill] tiles",
@@ -39,7 +38,7 @@
 		"name": "Mine",
 		"terrainsCanBeBuiltOn": ["Hill"],
 		"production": 1,
-		"turnsToBuild": 1,
+		"turnsToBuild": 7,
 		"techRequired": "Mining",
 		"uniques": [
 		"[+1 Production] <after discovering [Mass Production]>",
@@ -76,7 +75,7 @@
 	},
 	{
 		"name": "Plantation",
-		"turnsToBuild": 9,
+		"turnsToBuild": 3,
 		"gold": 2,
 		"techRequired": "Pottery",
 		"uniques": [
@@ -115,7 +114,6 @@
 		"name": "Fort",
 		"happiness": 2,
 		"turnsToBuild": 20,
-		"techRequired": "Imperial Decay",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Forest","Jungle"],
 		"uniques": [
 		"[-1 Food]",
@@ -123,7 +121,10 @@
 		"Pillaging this improvement yields approximately [+120 Gold]",
 		"Removes removable features when built",
 		"Tile provides yield without assigned population",
-		"Great Improvement"
+		"Great Improvement",
+			"Unbuildable <for [Worker] units>",
+			"Unbuildable <for [Military] units>",
+			"Unbuildable <in tiles adjacent to [Fort] tiles>"
 		],
 		"shortcutKey": "O"
 	},
@@ -131,43 +132,49 @@
 		"name": "Village",
 		"turnsToBuild": 15,
 		"gold": 1,
-		"food": 1,
-		"techRequired": "Imperial Decay",
+		"food": 4,
 		"terrainsCanBeBuiltOn": ["Land","Forest","Jungle"],
 		"uniques": [
 			"Gives a defensive bonus of [10]%",
- 			"[+1 Happiness, +1 Food, +1 Production, +1 Culture] for each adjacent [Village]",
- 			"[+1 Happiness, +1 Food] for each adjacent [Fort]",
- 			"[+1 Happiness, +1 Food, +1 Gold] for each adjacent [Trading post]",
+  			"[-1 Happiness, -1 Food, -1 Production, +1 Culture] for each adjacent [Village]",
+  			"[+1 Happiness, -1 Food] for each adjacent [Fort]",
+  			"[+1 Happiness, -1 Food, +1 Gold] for each adjacent [Trading post]",
 			"[+1 Food] <when above [10] [Sanitation]>",
 			"[+1 Food] <when above [20] [Sanitation]>",
 			"[+1 Food] <when above [30] [Sanitation]>",
 			"Tile provides yield without assigned population",
+			"Can only be built on [resource] tiles",
 			"Great Improvement",
 			"Removes removable features when built",
-			"Pillaging this improvement yields approximately [+100 Gold]"
+			"Pillaging this improvement yields approximately [+100 Gold]",
+			"Unbuildable <for [Worker] units>",
+			"Unbuildable <for [Military] units>",
+			"Unbuildable <in tiles adjacent to [Village] tiles>"
 		]
 	},
 	{
 		"name": "Trading post",
 		"terrainsCanBeBuiltOn": ["Land","Forest","Jungle"],
-		"gold": 2,
+		"gold": 4,
 		"happiness": 1,
 		"turnsToBuild": 15,
-		"techRequired": "Imperial Decay",
 		"uniques": [
 			"Gives a defensive bonus of [10]%",
- 			"[+1 Food, +2 Gold] for each adjacent [Village]",
- 			"[+1 Happiness, +1 Gold] for each adjacent [Fort]",
- 			"[+1 Gold] for each adjacent [improved]",
+  			"[+1 Food, +2 Gold] for each adjacent [Village]",
+  			"[+1 Happiness, +1 Gold] for each adjacent [Fort]",
+  			"[+1 Gold] for each adjacent [improved]",
 			"[+1 Gold] <after discovering [Exploration]>",
 			"[+1 Gold] <when above [10] [Sanitation]>",
 			"[+1 Gold] <when above [20] [Sanitation]>",
 			"[+1 Gold] <when above [30] [Sanitation]>",
 			"Pillaging this improvement yields approximately [+150 Gold]",
 			"Tile provides yield without assigned population",
-			"Removes removable features when built"
-		]
+			"Can only be built on [resource] tiles",
+			"Removes removable features when built",
+			"Unbuildable <for [Worker] units>",
+			"Unbuildable <for [Military] units>",
+			"Unbuildable <in tiles adjacent to [Trading post] tiles>"
+]
 	},
 
 	// Transportation
@@ -189,7 +196,7 @@
 	// the improvement that removes the terrainfeature after it.
 	{
 		"name": "Remove Forest",
-		"turnsToBuild": 1,
+		"turnsToBuild": 5,
 		"techRequired": "Mining",
 		"uniques": ["Can be built outside your borders"],
 		"shortcutKey": "X",
@@ -203,7 +210,7 @@
 	},
 	{
 		"name": "Remove Jungle",
-		"turnsToBuild": 3,
+		"turnsToBuild": 5,
 		"techRequired": "Bronze Working",
 		"uniques": ["Can be built outside your borders"],
 		"shortcutKey": "X"
