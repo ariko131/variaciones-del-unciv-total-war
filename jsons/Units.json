@@ -5,7 +5,7 @@
     "unitType": "Civilian",
 "hurryCostModifier": 60,
     "cost": 30,
-    "movement": 2,
+    "movement": 3,
     "uniques": [
 	"Comment [-The backbone of every civilization. They build roads, farms, and occasionally shallow graves for their supervisors. Cheap, dependable, and highly combustible. Can later be convinced that holding a spear counts as a promotion. Unbuildable when at war.\n\nWorker Limits:\n• Archaic Age: 3\n• Classical Age: 4\n• Hellenistic Age onward: 5\n• +1 limit at all stages with Manpower Office]",
 	"Can be purchased with [Gold] [in all cities] <when at war>",
